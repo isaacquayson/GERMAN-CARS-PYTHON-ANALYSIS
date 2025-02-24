@@ -1,5 +1,5 @@
 # GERMAN-CARS-PYTHON-ANALYSIS
-## This project dives into analysis on the dataset of Germany cars produced from the year 2011 - 2021.
+## This project dives into the analysis of a dataset on German cars produced from 2011 to 2021.
 
 ## Documentations to this project was performed in the notebook
 
